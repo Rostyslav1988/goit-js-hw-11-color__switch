@@ -1,1 +1,1 @@
-# goit-js-hw-11-color__switch
+# goit-js-hw-11-color-switch
