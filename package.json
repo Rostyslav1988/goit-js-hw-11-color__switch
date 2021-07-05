@@ -49,6 +49,7 @@
   "dependencies": {
     "core-js": "^3.1.4",
     "eslint": "^6.6.0",
-    "handlebars": "^4.1.2"
+    "handlebars": "^4.1.2",
+    "validator": "^13.6.0"
   }
 }
