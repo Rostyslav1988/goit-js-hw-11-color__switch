@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://rostyslav1988.github.io/goit-js-hw-11-color__switch/",
+  "homepage": "https://erastfandorin.github.io/goit-js-hw-11-color-switch/",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
@@ -49,7 +49,6 @@
   "dependencies": {
     "core-js": "^3.1.4",
     "eslint": "^6.6.0",
-    "handlebars": "^4.1.2",
-    "validator": "^13.6.0"
+    "handlebars": "^4.1.2"
   }
 }
